@@ -4,8 +4,6 @@
 <img src="images/players.png" width="800">
 
 
-Project by: **Sanjit Varma**
-
 
 # Table of Contents
 * [Business Problem](#business-problem)
