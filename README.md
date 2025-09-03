@@ -322,19 +322,6 @@ Another assumption fallacy in this project is that in the modern game, player po
 Given our conclusion that on-field performance is not the only predictor of player value, more data needs to be gathered such as (a player's int'l caps, number of Google searches with their name, overall career history, trophies won etc.)
 
 
-# Contributor
-
-<img src="images/sanjit.png" width="300">
-
-**Sanjit Varma** <br>
-    **Github**: www.github.com/sanjitva<br>
-    **Linkedin**: www.linkedin.com/in/sanjit-varma-624ba410a/<br>
-    **Email**: sanjitva@gmail.com
-
-
-# Project Structure
-
-
 ```
 ├── eda.ipynb
 ├── README.md
